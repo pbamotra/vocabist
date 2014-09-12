@@ -1,0 +1,4 @@
+vocabist
+========
+
+My ghost blog
